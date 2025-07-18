@@ -1,4 +1,4 @@
-🏔️ Landslide Susceptibility Mapping using Deep Learning and Google Earth Engine
+#🏔️ Landslide Susceptibility Mapping using Deep Learning and Google Earth Engine
 Python
 TensorFlow
 Earth Engine
